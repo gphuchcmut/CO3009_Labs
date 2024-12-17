@@ -1,0 +1,6 @@
+../Core/Src/led7seg.c:26:6:disp7segX	24	static
+../Core/Src/led7seg.c:39:6:disp7segY	24	static
+../Core/Src/led7seg.c:52:6:update7segX	16	static
+../Core/Src/led7seg.c:57:6:update7segY	16	static
+../Core/Src/led7seg.c:65:6:scan7segX	8	static
+../Core/Src/led7seg.c:82:6:scan7segY	8	static

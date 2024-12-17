@@ -1,0 +1,6 @@
+../Core/Src/fsm.c:29:6:fsm_run	9
+../Core/Src/fsm.c:61:6:fsm_traffic_light	31
+../Core/Src/fsm.c:214:6:mode_button_scan	8
+../Core/Src/fsm.c:242:6:increase_button_scan	9
+../Core/Src/fsm.c:264:6:set_button_scan	6
+../Core/Src/fsm.c:285:6:fsm_led_blink	5

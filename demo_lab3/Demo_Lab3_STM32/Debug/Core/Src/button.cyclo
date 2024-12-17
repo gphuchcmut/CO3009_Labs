@@ -1,0 +1,4 @@
+../Core/Src/button.c:20:5:isButtonNOPressed	2
+../Core/Src/button.c:28:6:subKeyProcess	1
+../Core/Src/button.c:32:15:button_detector	5
+../Core/Src/button.c:49:6:buttonReading	7

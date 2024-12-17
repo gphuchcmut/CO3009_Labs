@@ -1,0 +1,3 @@
+../Core/Src/led.c:10:6:dispLedX	16	static
+../Core/Src/led.c:40:6:dispLedY	16	static
+../Core/Src/led.c:70:6:blink_Led	16	static
